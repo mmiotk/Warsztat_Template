@@ -1,0 +1,101 @@
+ID,Imię,Nazwisko,Dział,Stanowisko,Miasto,Wynagrodzenie,Email,Telefon,Data_zatrudnienia
+1,Joanna,Piotrowski,Marketing,Konsultant,Łódź,7746,,522-946-934,2021-02-18
+2,Katarzyna,Kowalski,Wsparcie,Analityk,Katowice,9257,,513-295-109,2020-11-15
+3,Krzysztof,Wiśniewski,Finanse,Kierownik,Wrocław,6456,,517-857-200,2022-12-28
+4,Krzysztof,Nowakowski,Administracja,Starszy Specjalista,Łódź,5817,,573-894-971,2022-09-13
+5,Krzysztof,Piotrowski,Rozwój,Analityk,Poznań,7319,,585-833-106,2023-05-01
+6,Jan,Nowakowski,HR,Konsultant,Gdańsk,5035,,525-317-195,2022-05-21
+7,Maria,Piotrowski,Wsparcie,Starszy Specjalista,Gdańsk,11841,,586-321-375,2019-08-24
+8,Jan,Nowak,Wsparcie,Specjalista,Gdańsk,6547,,586-107-247,2023-07-23
+9,Krzysztof,Woźniak,Produkcja,Specjalista,Poznań,6858,,588-574-011,2021-02-10
+10,Piotr,Grabowska,Administracja,Młodszy Specjalista,Łódź,10117,,565-628-423,2022-07-03
+11,Piotr,Kamińska,Rozwój,Manager,Kraków,11654,,539-147-837,2019-10-14
+12,Aleksandra,Lewandowski,HR,Manager,Gdańsk,8765,,563-731-344,2021-06-26
+13,Anna,Kowalczyk,Rozwój,Młodszy Specjalista,Wrocław,10803,,535-499-794,2019-11-03
+14,Łukasz,Kwiatkowski,Logistyka,Asystent,Gdańsk,5406,,556-531-585,2023-06-26
+15,Aleksandra,Pawłowska,Logistyka,Asystent,Gdańsk,5146,,546-447-323,2019-02-10
+16,Agnieszka,Grabowska,Rozwój,Specjalista,Kraków,7371,,545-284-281,2023-04-16
+17,Marcin,Nowakowski,Logistyka,Specjalista,Szczecin,7122,,576-871-328,2020-06-18
+18,Paweł,Lewandowski,Sprzedaż,Specjalista,Szczecin,5274,,512-697-354,2022-01-25
+19,Karolina,Kwiatkowski,Produkcja,Manager,Kraków,8447,,569-627-308,2023-11-11
+20,Ewa,Nowakowski,Sprzedaż,Manager,Białystok,8400,,552-615-346,2022-03-11
+21,Paweł,Szymański,IT,Starszy Specjalista,Kraków,6447,,507-332-209,2021-03-03
+22,Łukasz,Lewandowski,Administracja,Koordynator,Kraków,10376,,510-871-381,2019-03-07
+23,Monika,Pawłowska,Administracja,Młodszy Specjalista,Poznań,7012,,587-732-722,2022-04-28
+24,Joanna,Wiśniewski,Logistyka,Analityk,Kraków,8497,,597-211-294,2020-07-23
+25,Ewa,Wójcik,Logistyka,Konsultant,Lublin,5159,,565-213-205,2022-01-09
+26,Rafał,Zielińska,Produkcja,Kierownik,Katowice,5801,,540-207-062,2019-10-22
+27,Magdalena,Kwiatkowski,Administracja,Konsultant,Lublin,5584,,531-769-275,2019-01-25
+28,Jan,Dąbrowski,Produkcja,Młodszy Specjalista,Białystok,8570,,595-093-421,2023-04-20
+29,Michał,Wójcik,Rozwój,Starszy Specjalista,Poznań,6186,,562-561-309,2019-09-17
+30,Karolina,Lewandowski,Marketing,Specjalista,Kraków,10760,,544-376-113,2019-12-20
+31,Joanna,Wiśniewski,Rozwój,Analityk,Białystok,5837,,550-806-856,2022-10-14
+32,Tomasz,Lewandowski,Logistyka,Młodszy Specjalista,Katowice,8073,,534-504-163,2021-12-04
+33,Rafał,Nowakowski,Rozwój,Dyrektor,Gdańsk,8855,,541-958-666,2021-05-21
+34,Joanna,Wojciechowska,Produkcja,Manager,Poznań,7077,,586-279-196,2021-02-26
+35,Paweł,Piotrowski,Produkcja,Konsultant,Warszawa,7196,,577-905-115,2019-09-05
+36,Anna,Piotrowski,Wsparcie,Młodszy Specjalista,Kraków,5260,,570-073-411,2022-01-25
+37,Adam,Lewandowski,Sprzedaż,Manager,Poznań,5595,,586-374-764,2023-06-02
+38,Anna,Woźniak,Rozwój,Asystent,Łódź,5384,,552-270-944,2020-02-02
+39,Marcin,Lewandowski,Rozwój,Młodszy Specjalista,Gdańsk,7691,,593-614-539,2023-10-10
+40,Katarzyna,Kamińska,Logistyka,Dyrektor,Łódź,7075,,597-124-891,2019-08-08
+41,Krzysztof,Piotrowski,Marketing,Koordynator,Lublin,11893,,554-222-892,2021-05-05
+42,Łukasz,Piotrowski,Sprzedaż,Specjalista,Warszawa,10965,,504-269-432,2023-01-25
+43,Maria,Grabowska,Sprzedaż,Manager,Łódź,5584,,545-854-493,2019-02-02
+44,Agnieszka,Kowalczyk,Finanse,Dyrektor,Lublin,11630,,524-268-701,2019-11-27
+45,Maria,Kozłowska,Marketing,Młodszy Specjalista,Gdańsk,6986,,547-438-057,2020-09-17
+46,Adam,Wójcik,Rozwój,Specjalista,Łódź,10484,,569-811-794,2023-10-26
+47,Agnieszka,Nowakowski,Finanse,Kierownik,Łódź,11291,,539-655-026,2022-11-11
+48,Katarzyna,Wójcik,Rozwój,Starszy Specjalista,Wrocław,7109,,547-044-075,2020-03-19
+49,Aleksandra,Lewandowski,Administracja,Specjalista,Szczecin,6488,,545-231-284,2023-10-22
+50,Monika,Zielińska,Finanse,Asystent,Lublin,9046,,594-170-214,2023-02-18
+51,Karolina,Szymański,Finanse,Specjalista,Gdańsk,7454,,590-994-764,2022-10-22
+52,Karolina,Kwiatkowski,Finanse,Młodszy Specjalista,Szczecin,8489,,502-879-153,2019-03-23
+53,Monika,Jankowski,Marketing,Starszy Specjalista,Łódź,11941,,502-024-731,2021-07-19
+54,Ewa,Pawłowska,Logistyka,Asystent,Łódź,9775,,508-869-313,2020-05-13
+55,Anna,Nowakowski,IT,Dyrektor,Katowice,5958,,564-727-911,2022-03-15
+56,Anna,Nowakowski,Logistyka,Kierownik,Wrocław,7407,,547-153-383,2020-12-20
+57,Jan,Kamińska,IT,Koordynator,Lublin,7653,,573-303-159,2021-06-18
+58,Piotr,Grabowska,Administracja,Młodszy Specjalista,Lublin,11207,,556-002-136,2023-02-02
+59,Michał,Nowakowski,Sprzedaż,Młodszy Specjalista,Poznań,6446,,587-089-089,2020-08-08
+60,Maria,Nowakowski,Administracja,Asystent,Wrocław,5678,,598-387-325,2022-06-14
+61,Adam,Nowakowski,HR,Analityk,Katowice,11060,,574-432-109,2019-07-23
+62,Adam,Grabowska,Administracja,Asystent,Łódź,9727,,573-511-558,2020-02-22
+63,Krzysztof,Nowakowski,Finanse,Kierownik,Łódź,5854,,542-065-256,2021-08-12
+64,Joanna,Kwiatkowski,Marketing,Kierownik,Łódź,8437,,570-832-470,2023-12-16
+65,Adam,Kaczmarek,Administracja,Manager,Lublin,11576,,501-711-030,2019-11-07
+66,Magdalena,Kaczmarek,Administracja,Asystent,Gdańsk,6075,,572-501-140,2021-12-28
+67,Ewa,Zielińska,Administracja,Kierownik,Szczecin,6240,,556-339-592,2023-07-27
+68,Karolina,Zielińska,Wsparcie,Koordynator,Lublin,5654,,512-146-704,2019-09-25
+69,Ewa,Szymański,Produkcja,Specjalista,Poznań,11926,,564-773-686,2021-01-21
+70,Tomasz,Grabowska,HR,Manager,Wrocław,8828,,526-166-876,2020-01-01
+71,Krzysztof,Wójcik,IT,Analityk,Wrocław,7293,,593-211-104,2022-07-27
+72,Agnieszka,Dąbrowski,Produkcja,Młodszy Specjalista,Szczecin,5480,,590-971-881,2022-06-10
+73,Michał,Kowalczyk,Administracja,Kierownik,Gdańsk,9167,,505-781-342,2020-01-05
+74,Michał,Piotrowski,Rozwój,Koordynator,Łódź,9723,,517-711-396,2020-02-26
+75,Maria,Zielińska,IT,Starszy Specjalista,Katowice,8435,,572-166-744,2021-05-25
+76,Aleksandra,Piotrowski,Logistyka,Starszy Specjalista,Wrocław,9304,,580-819-585,2023-07-11
+77,Tomasz,Kozłowska,Produkcja,Starszy Specjalista,Białystok,11730,,540-901-658,2022-04-20
+78,Katarzyna,Kwiatkowski,HR,Asystent,Szczecin,5821,,533-948-386,2020-12-08
+79,Karolina,Kowalczyk,Wsparcie,Starszy Specjalista,Białystok,10015,,578-960-805,2023-12-20
+80,Jan,Dąbrowski,Logistyka,Specjalista,Katowice,7885,,596-814-392,2023-01-25
+81,Anna,Kamińska,Finanse,Koordynator,Szczecin,8472,,502-187-025,2019-03-15
+82,Ewa,Jankowski,Wsparcie,Dyrektor,Wrocław,11209,,526-320-540,2020-03-07
+83,Adam,Lewandowski,Sprzedaż,Asystent,Gdańsk,8697,,565-225-495,2022-01-25
+84,Aleksandra,Lewandowski,Administracja,Analityk,Warszawa,8878,,510-714-718,2019-02-02
+85,Monika,Piotrowski,Logistyka,Analityk,Lublin,7814,,548-693-351,2023-04-16
+86,Joanna,Woźniak,Sprzedaż,Dyrektor,Kraków,11395,,526-097-749,2023-12-16
+87,Paweł,Wójcik,Produkcja,Dyrektor,Lublin,8604,,560-663-784,2019-03-23
+88,Michał,Wójcik,Sprzedaż,Konsultant,Gdańsk,9541,,562-394-484,2019-10-14
+89,Rafał,Szymański,Rozwój,Analityk,Gdańsk,10094,,595-302-875,2022-10-10
+90,Ewa,Grabowska,Rozwój,Młodszy Specjalista,Szczecin,10254,,577-828-975,2019-08-04
+91,Katarzyna,Kamińska,Rozwój,Asystent,Gdańsk,8601,,511-931-140,2023-02-18
+92,Tomasz,Woźniak,HR,Manager,Gdańsk,7216,,573-790-998,2021-06-14
+93,Magdalena,Wiśniewski,Produkcja,Młodszy Specjalista,Warszawa,10803,,588-097-633,2023-09-09
+94,Krzysztof,Jankowski,Sprzedaż,Starszy Specjalista,Lublin,11299,,507-245-379,2019-05-01
+95,Tomasz,Wojciechowska,Logistyka,Starszy Specjalista,Warszawa,10039,,530-891-607,2019-06-06
+96,Magdalena,Nowak,Rozwój,Specjalista,Gdańsk,9779,,501-814-422,2020-02-02
+97,Jan,Lewandowski,IT,Analityk,Katowice,9656,,552-160-382,2021-04-04
+98,Agnieszka,Lewandowski,IT,Asystent,Poznań,6429,,500-156-378,2022-07-11
+99,Karolina,Wójcik,Rozwój,Koordynator,Lublin,6428,,505-490-883,2022-06-02
+100,Agnieszka,Pawłowska,HR,Analityk,Łódź,6952,,561-874-079,2020-05-13
