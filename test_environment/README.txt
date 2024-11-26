@@ -9,9 +9,9 @@ Struktura katalogów i plików do ćwiczeń:
    - employees.csv - plik z danymi pracowników (100 wierszy)
      Kolumny:
      * ID
-     * Imię
+     * Imie
      * Nazwisko
-     * Dział
+     * Dzial
      * Stanowisko
      * Miasto
      * Wynagrodzenie
